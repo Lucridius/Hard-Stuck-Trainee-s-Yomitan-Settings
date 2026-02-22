@@ -5,7 +5,7 @@ This page is broken up into 2 main sections
 <img width="834" height="736" alt="image" src="https://github.com/user-attachments/assets/a4e3a598-1395-47d7-b00b-6f06099a4330" />
 
 # Handle Bars
-The main portion of the handle bars was done by [AuroraWright](https://gist.github.com/AuroraWright) and you can view those original handle bars [here](https://gist.github.com/AuroraWright/8f529e7ec5a47bfa5d979821541562a5). From here I'll just call them JPMNHandles
+The main portion of the handle bars was done by [AuroraWright](https://github.com/AuroraWright) and you can view those original handle bars [here](https://gist.github.com/AuroraWright/8f529e7ec5a47bfa5d979821541562a5). From here I'll just call them JPMNHandles
 (I'm assuming you're already familiar with how yomitan works)
 The main advantage of these handlebars comes from the addition of ``{primary-definition}`` and ``{secondary-definition}``
 
@@ -79,7 +79,7 @@ Using a one button setup
 https://github.com/user-attachments/assets/5b444bb0-4a9d-48f2-b13d-00394b7afe10
 
 # CSS
-The main bulk of the CSS comes from *again* [AuroraWright](https://gist.github.com/AuroraWright) (see their release of the CSS [here](https://gist.github.com/AuroraWright/563a67c18b8a74ecde3653b7726ff632))
+The main bulk of the CSS comes from *again* [AuroraWright](https://github.com/AuroraWright) (see their release of the CSS [here](https://gist.github.com/AuroraWright/563a67c18b8a74ecde3653b7726ff632))
   - *but from them it's just someone else's edited CSS... and that came from someone else yada yada*
 
 ## Changes step by step
