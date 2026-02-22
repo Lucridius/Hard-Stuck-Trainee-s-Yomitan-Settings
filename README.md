@@ -128,4 +128,4 @@ We'll start with the 2 "feature" CSS additions.
 **TheMoeWay Idle rank colouring CSS**
   - I think it needs a specific version (the latest version)
 
-### **You can find the CSS for all of these changes in BottomOfCSSInserts.css**
+### **You can find the CSS for all of these changes in [BottomOfCSSInserts.css](https://github.com/Lucridius/Hard-Stuck-Trainee-s-Yomitan-Settings/blob/main/BottomOfCSSInserts.css)**
