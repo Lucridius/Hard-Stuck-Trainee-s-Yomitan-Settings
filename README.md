@@ -41,3 +41,7 @@ This is really just an OCD feature you can feel free to delete (I imagine pretty
   - Just organizes things, gives me extra info if I want it.
 
 ## Handle Bar Installation.
+Open/download the file ``Modified_JPMNHandles`` and copy the top portion of the file at the top of your handle bars and the bottom portion at the bottom.
+The handle bars I added are at the very end look for ``{{! START OF {conditional-selection-text} HANDLEBAR  }}`` and or ``{{! START OF {conditional-dictionary-name} HANDLEBAR  }}`` and delete them if you want :shrug:
+## Quick installation/Useage demonstration
+https://www.youtube.com/watch?v=YcybYFpGATo
