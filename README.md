@@ -64,9 +64,11 @@ Using a one button setup
 - You can highlight text, create the card then overwrite the ``{primary-definition}`` result seperately from selection text
   - but not the otherway around, highlighting text will always overwrite ``{primary-definition}``s result
 **IF** your yomitan does not automatically highlight a dictionaries name with a single click/tap put this CSS at the bottom of your yomitan CSS
-```.tag {
+```
+.tag {
     user-select: all;
-}```
+}
+```
 
 ## Quick installation/Useage demonstration
 https://github.com/user-attachments/assets/5b444bb0-4a9d-48f2-b13d-00394b7afe10
