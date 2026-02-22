@@ -79,3 +79,36 @@ The main bulk of the CSS comes from *again* [AuroraWright](https://gist.github.c
   - *but from them it's just someone else's edited CSS... and that came from someone else yada yada*
 
 ## Changes step by step
+- Converting it to work with light mode and adding extra compactness (couple other changes)
+  - Added a white theme colour at the top of the css, and changed every search result for ``data-theme="dark"`` to ``data-theme="light"``
+  - Messed around in ``/* Dual pane layout start */`` to increase compactness to taste.
+    - I tried not to change the main CSS with most of my changes but I had to for this.
+    - If you want to jump to these changes open 
+<img width="1920" height="1080" alt="Untitled(1)" src="https://github.com/user-attachments/assets/b43e15af-437f-4f52-a5d9-bddef118ee89" />
+
+- Adding pitch colouring.
+  - Adding CSS to the **TOP** created/edited by [a user from TheMoeWay discord](https://discord.com/channels/617136488840429598/778430038159655012/1365875991741730896).
+  - If you want the edited CSS at this point you can open [Base_Edited_CSS.css](https://github.com/Lucridius/Hard-Stuck-Trainee-s-Yomitan-Settings/blob/main/Base_Edited_CSS.css)
+
+<img width="409" height="232" alt="image" src="https://github.com/user-attachments/assets/f83599a3-8cf3-4540-aeb7-291fc041395a" />
+
+### From here it's just additions that go at the **bottom** of the CSS
+We'll start with the 2 "feature" CSS additions.
+
+**ウェブ検索 and JMdict Forms [2026-01-14] will always be displayed at the top row (even if only 1 is present)**
+  - This is mainly space saving/convience (was more relavent before Searaw from TheMoeWay discord found "masonry"
+  - I recommend messing with a custom collapse for JMdict Forms [2026-01-14] until you get a sizing  with it's equal with ウェブ検索
+    ```
+    .definition-item[data-dictionary='JMdict Forms [2026-01-14]'] {
+    --collapsible-definition-line-count: 1.32;
+    ```
+  - *with this image look aat the top row from the 3 entries*
+
+<img width="1977" height="1540" alt="image" src="https://github.com/user-attachments/assets/de01dd0b-3fd2-4507-a37b-1fce57983451" />
+
+<br>
+
+**デジタル大辞泉 Does not appear in the entry if 大辞泉 第二版 is present**
+  - This is just for coverage, they're both like 99% the same except for a few rare cases.
+  - Make sure デジタル大辞泉 is higher in your stack then 大辞泉 第二版 for this to work.
+    - It's kind of hard to find an example for this, I had when I was testing but I've lost it now
