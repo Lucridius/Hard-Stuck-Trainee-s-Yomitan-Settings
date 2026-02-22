@@ -35,7 +35,7 @@ Being seperated from ``{primary-definition}`` gives us back the freedom to use a
   - The main advantage here for me is you can continue to use the bolding defintion match feature, but you also will always get selection text even if the bolding match fails.
   - I'm just OCD braind and want to use the selection text field.
   
-###``conditional-dictionary-name}``###
+### ``conditional-dictionary-name}``###
 
 This is really just an OCD feature you can feel free to delete (I imagine pretty much noone will use it)
 - If matched text is a dictionary name, will output it.
