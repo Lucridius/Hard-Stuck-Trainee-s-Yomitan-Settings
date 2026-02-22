@@ -99,7 +99,7 @@ The main bulk of the CSS comes from *again* [AuroraWright](https://github.com/Au
 ### From here it's just additions that go at the **bottom** of the CSS
 We'll start with the 2 "feature" CSS additions.
 
-**ウェブ検索 and JMdict Forms [2026-01-14] will always be displayed at the top row (even if only 1 is present)**
+## **ウェブ検索 and JMdict Forms [2026-01-14] will always be displayed at the top row (even if only 1 is present)**
   - This is mainly space saving/convience (was more relavent before Searaw from TheMoeWay discord found "masonry"
   - I recommend messing with a custom collapse for JMdict Forms [2026-01-14] until you get a sizing  with it's equal with ウェブ検索
     ```
@@ -112,27 +112,31 @@ We'll start with the 2 "feature" CSS additions.
 
 <br>
 
-**デジタル大辞泉 Does not appear in the entry if 大辞泉 第二版 is present**
+## **デジタル大辞泉 Does not appear in the entry if 大辞泉 第二版 is present**
   - This is just for coverage, they're both like 99% the same except for a few rare cases.
   - Make sure デジタル大辞泉 is higher in your stack then 大辞泉 第二版 for this to work.
     - It's kind of hard to find an example for this, I had when I was testing but I've lost it now
 
-**Jitendex hide example sentences unless you click and hold the entry**
+## **Jitendex hide example sentences unless you click and hold the entry**
 
-**Remove the link abt the bottom of Jitendex**
+## **Remove the link at the bottom of Jitendex entries**
+    - Seriously who would click it...
 
-**Additional Dictionary/Tag Colouring**
+## **Additional Dictionary/Tag Colouring**
 
-**Expansion arrow changes, moves arrow to the top and removes the blue bar on the right side**
+## **Expansion arrow changes, moves arrow to the top and removes the blue bar on the right side**
   - This was mainly a change for my old version of the CSS where text could run into the expansion, it no longer does that but it's preference now.
   - **THE RED ARROW IS JUST SEPERATING 2 SEPERATE IMAGES**
   
 <img width="244" height="301" alt="image" src="https://github.com/user-attachments/assets/f189e34b-a28d-417e-9c17-f9c1207e6447" />
 
-**TheMoeWay Idle rank colouring CSS**
+## **TheMoeWay Idle rank colouring CSS**
   - I think it needs a specific version (the latest version)
 
-### **You can find the CSS for all of these changes in [BottomOfCSSInserts.css](https://github.com/Lucridius/Hard-Stuck-Trainee-s-Yomitan-Settings/blob/main/BottomOfCSSInserts.css)**
+<img width="182" height="70" alt="image" src="https://github.com/user-attachments/assets/965aeaf5-cfbe-4901-a9f5-84e475b4b3b3" />
+
+
+## **You can find the CSS for all of these changes in [BottomOfCSSInserts.css](https://github.com/Lucridius/Hard-Stuck-Trainee-s-Yomitan-Settings/blob/main/BottomOfCSSInserts.css)**
 or alternatively I've uploaded my entire CSS File [My_Entire_CSS_Not_Recommended.css](https://github.com/Lucridius/Hard-Stuck-Trainee-s-Yomitan-Settings/blob/main/My_Entire_CSS_Not_Recommended.css)
 
 # Update post notes.
