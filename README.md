@@ -87,12 +87,12 @@ The main bulk of the CSS comes from *again* [AuroraWright](https://github.com/Au
   - Added a white theme colour at the top of the css, and changed every search result for ``data-theme="dark"`` to ``data-theme="light"``
   - Messed around in ``/* Dual pane layout start */`` to increase compactness to taste.
     - I tried not to change the main CSS with most of my changes but I had to for this.
-    - 
+      
 <img width="1920" height="1080" alt="Untitled(1)" src="https://github.com/user-attachments/assets/b43e15af-437f-4f52-a5d9-bddef118ee89" />
 
 - Adding pitch colouring.
   - Adding CSS to the **TOP** created/edited by [a user from TheMoeWay discord](https://discord.com/channels/617136488840429598/778430038159655012/1365875991741730896).
-  - If you want the edited CSS at this point you can open [Base_Edited_CSS.css](https://github.com/Lucridius/Hard-Stuck-Trainee-s-Yomitan-Settings/blob/main/Base_Edited_CSS.css)
+  - If you want my CSS as it is at this point (white mode edits/pitch colouring) it's this file here --> [Base_Edited_CSS.css](https://github.com/Lucridius/Hard-Stuck-Trainee-s-Yomitan-Settings/blob/main/Base_Edited_CSS.css)
 
 <img width="409" height="232" alt="image" src="https://github.com/user-attachments/assets/f83599a3-8cf3-4540-aeb7-291fc041395a" />
 
