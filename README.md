@@ -37,7 +37,7 @@ This is really just an OCD feature you can feel free to delete (I imagine pretty
 - If matched text is a dictionary name, will output it.
 - If ``{primary-definition}`` correctly matches bolding text highlight, will output that dictionaries name.
 - If no dictionaries are matched outputs in plain text "Defaulted"
-  - This is mainly for use with Senren (but in my setup it doesn't do anything)
+  - This is mainly for use with [Senren](https://github.com/BrenoAqua/Senren) (but in my setup it doesn't do anything)
   - Just organizes things, gives me extra info if I want it.
 
 ## Handle Bar Installation.
@@ -51,7 +51,7 @@ The handle bars I added are at the very end look for ``{{! START OF {conditional
 - Have your selection text field or equivalent be ``{conditional-selection-text}``
 - Have the main definition be ``{primary-definition}``
 - For glossary it's your choice on however you want to set that up
-- (senren) Have dictionaryPreference be ``{conditional-dictionary-name}``
+- ([senren](https://github.com/BrenoAqua/Senren)) Have dictionaryPreference be ``{conditional-dictionary-name}``
   - You can add this field to any notetype if you want to for some reason.
 **Have all of these set to ``overwrite if available`` (well maybe not glossary actually)
 
