@@ -1,7 +1,7 @@
 # Hard-Stuck-Trainee's-Yomitan-Configuration
 This page is broken up into 2 main sections
-- Handle bars
-- Yomitan CSS
+- [Handle bars](https://github.com/Lucridius/Hard-Stuck-Trainee-Yomitan-Settings/tree/main?tab=readme-ov-file#handle-bars)
+- [Yomitan CSS](https://github.com/Lucridius/Hard-Stuck-Trainee-Yomitan-Settings/tree/main?tab=readme-ov-file#css)
 <img width="834" height="736" alt="image" src="https://github.com/user-attachments/assets/a4e3a598-1395-47d7-b00b-6f06099a4330" />
 
 # Handle Bars
