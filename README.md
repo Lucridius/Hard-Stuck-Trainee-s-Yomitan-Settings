@@ -87,7 +87,7 @@ The main bulk of the CSS comes from *again* [AuroraWright](https://gist.github.c
   - Added a white theme colour at the top of the css, and changed every search result for ``data-theme="dark"`` to ``data-theme="light"``
   - Messed around in ``/* Dual pane layout start */`` to increase compactness to taste.
     - I tried not to change the main CSS with most of my changes but I had to for this.
-    - If you want to jump to these changes open 
+    - 
 <img width="1920" height="1080" alt="Untitled(1)" src="https://github.com/user-attachments/assets/b43e15af-437f-4f52-a5d9-bddef118ee89" />
 
 - Adding pitch colouring.
