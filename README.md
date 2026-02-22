@@ -43,9 +43,15 @@ This is really just an OCD feature you can feel free to delete (I imagine pretty
 ## Handle Bar Installation.
 Open/download the file ``Modified_JPMNHandles`` and copy the top portion of the file at the top of your handle bars and the bottom portion at the bottom.
 The handle bars I added are at the very end look for ``{{! START OF {conditional-selection-text} HANDLEBAR  }}`` and or ``{{! START OF {conditional-dictionary-name} HANDLEBAR  }}`` and delete them if you want :shrug:
+## Yomitan Config (anki)
+- Have your selection text field or equivalent be {conditional-selection-text}
+- Have the main definition be ``{primary-definition}``
+- For glossary it's your choice on however you want to set that up
+- (senren) Have dictionaryPreference be ``{conditional-dictionary-name}``
+  - You can add this field to any notetype if you want to for some reason.
+**Have all of these set to ``overwrite if available``
 ## Quick installation/Useage demonstration
-https://www.youtube.com/watch?v=YcybYFpGATo
+https://github.com/user-attachments/assets/5b444bb0-4a9d-48f2-b13d-00394b7afe10
 
-
-https://github.com/user-attachments/assets/368ee017-edc9-400c-a3ea-c0e870e08010
+# CSS
 
