@@ -112,3 +112,9 @@ We'll start with the 2 "feature" CSS additions.
   - This is just for coverage, they're both like 99% the same except for a few rare cases.
   - Make sure デジタル大辞泉 is higher in your stack then 大辞泉 第二版 for this to work.
     - It's kind of hard to find an example for this, I had when I was testing but I've lost it now
+
+**Jitendex hide example sentences unless you click and hold the entry**
+
+**Remove the link abt the bottom of Jitendex**
+
+**Additional Dictionary/Tag Colouring**
