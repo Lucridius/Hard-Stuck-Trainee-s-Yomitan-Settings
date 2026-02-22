@@ -118,3 +118,14 @@ We'll start with the 2 "feature" CSS additions.
 **Remove the link abt the bottom of Jitendex**
 
 **Additional Dictionary/Tag Colouring**
+
+**Expansion arrow changes, moves arrow to the top and removes the blue bar on the right side**
+  - This was mainly a change for my old version of the CSS where text could run into the expansion, it no longer does that but it's preference now.
+  - **THE RED ARROW IS JUST SEPERATING 2 SEPERATE IMAGES**
+  
+<img width="244" height="301" alt="image" src="https://github.com/user-attachments/assets/f189e34b-a28d-417e-9c17-f9c1207e6447" />
+
+**TheMoeWay Idle rank colouring CSS**
+  - I think it needs a specific version (the latest version)
+
+### **You can find the CSS for all of these changes in BottomOfCSSInserts.css**
