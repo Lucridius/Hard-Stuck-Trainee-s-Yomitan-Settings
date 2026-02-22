@@ -57,6 +57,12 @@ The handle bars I added are at the very end look for ``{{! START OF {conditional
 
 <img width="1236" height="166" alt="image" src="https://github.com/user-attachments/assets/ec67106a-f4e4-423b-b95e-ad8aae1f8fa3" />
 
+## Useage notes.
+Assuming you have your selection text field/main definition field set to overwrite if available. <br>
+Using a one button setup 
+- highlighted text, prints to selection text, main definition will get whatever ``{primary-definition}`` gets.
+- You can highlight text, create the card then overwrite the ``{primary-definition}`` result seperately from selection text
+  - but not the otherway around, highlighting text will always overwrite ``{primary-definition}``s result
 
 ## Quick installation/Useage demonstration
 https://github.com/user-attachments/assets/5b444bb0-4a9d-48f2-b13d-00394b7afe10
