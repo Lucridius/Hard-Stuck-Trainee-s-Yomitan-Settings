@@ -45,3 +45,7 @@ Open/download the file ``Modified_JPMNHandles`` and copy the top portion of the 
 The handle bars I added are at the very end look for ``{{! START OF {conditional-selection-text} HANDLEBAR  }}`` and or ``{{! START OF {conditional-dictionary-name} HANDLEBAR  }}`` and delete them if you want :shrug:
 ## Quick installation/Useage demonstration
 https://www.youtube.com/watch?v=YcybYFpGATo
+
+
+https://github.com/user-attachments/assets/368ee017-edc9-400c-a3ea-c0e870e08010
+
