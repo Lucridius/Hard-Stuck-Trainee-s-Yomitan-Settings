@@ -96,8 +96,9 @@ The main bulk of the CSS comes from *again* [AuroraWright](https://github.com/Au
 
 <img width="409" height="232" alt="image" src="https://github.com/user-attachments/assets/f83599a3-8cf3-4540-aeb7-291fc041395a" />
 
-### From here it's just additions that go at the **bottom** of the CSS
-We'll start with the 2 "feature" CSS additions.
+## From here it's just additions that go at the **bottom** of the CSS
+- Again to restate, all of these can be dropped in at the bottom of your CSS if you want to use them.
+- All of these can be found in [BottomOfCSSInserts.css](https://github.com/Lucridius/Hard-Stuck-Trainee-s-Yomitan-Settings/blob/main/BottomOfCSSInserts.css), it should be easy to identify what is what.
 
 ## **ウェブ検索 and JMdict Forms [2026-01-14] will always be displayed at the top row (even if only 1 is present)**
   - This is mainly space saving/convience (was more relavent before Searaw from TheMoeWay discord found "masonry"
@@ -120,7 +121,7 @@ We'll start with the 2 "feature" CSS additions.
 ## **Jitendex hide example sentences unless you click and hold the entry**
 
 ## **Remove the link at the bottom of Jitendex entries**
-    - Seriously who would click it...
+  - Seriously who would click it...
 
 ## **Additional Dictionary/Tag Colouring**
 
